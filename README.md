@@ -2,7 +2,7 @@
 ##  ServerSpeeder Install     
 -----------------------------      
 ----------------------------- 
-#For Linux (simple)   
+# For Linux (simple)   
 Usage    
 ```
 Usage:     
