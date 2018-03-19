@@ -34,10 +34,11 @@ dpkg -i *.deb
 ```    
 dpkg -l|grep linux-image | awk '{print $2}' #列出所有内核  
 apt-get purge XXXXXXXXX -y #删除内核
-```  
+
+```
 更新&重启
 ```    
 update-grub   
-reboot  
-``` 
+reboot
+```
 
