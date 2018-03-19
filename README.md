@@ -19,7 +19,7 @@ wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVice
 
 ```  
 -----------------------------    
-# debian 降低内核安装锐速。
+# Debian 降低内核安装锐速。
 ```    
 wget http://snapshot.debian.org/archive/debian/20140310T221406Z/pool/main/l/linux/linux-image-3.12-1-amd64_3.12.9-1_amd64.deb  
 wget http://snapshot.debian.org/archive/debian/20140310T221406Z/pool/main/l/linux/linux-headers-3.12-1-common_3.12.9-1_amd64.deb
