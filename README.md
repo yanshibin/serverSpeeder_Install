@@ -28,6 +28,7 @@ wget http://snapshot.debian.org/archive/debian/20140310T221406Z/pool/main/l/linu
 安装内核
 ```    
 dpkg -i *.deb
+
 ```  
 删除旧内核
 ```    
