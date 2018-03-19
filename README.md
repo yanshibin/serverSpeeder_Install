@@ -29,7 +29,7 @@ wget http://snapshot.debian.org/archive/debian/20140310T221406Z/pool/main/l/linu
 ```    
 dpkg -i *.deb
 
-```  
+```
 删除旧内核
 ```    
 dpkg -l|grep linux-image | awk '{print $2}' #列出所有内核  
