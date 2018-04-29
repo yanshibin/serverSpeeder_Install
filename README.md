@@ -34,7 +34,8 @@ dpkg -i *.deb
 ```    
 dpkg -l|grep linux-image | awk '{print $2}' #列出所有内核  
 apt-get purge XXXXXXXXX -y #删除内核
-
+apt-get purge -y linux-image-amd64
+apt-get purge -y linux-image-3.16.0-4-amd64
 ```
 更新&重启
 ```    
